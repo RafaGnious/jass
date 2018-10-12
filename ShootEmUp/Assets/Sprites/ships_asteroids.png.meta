@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 6ba43a6c972a6d14cbe814332a734dc0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ships_asteroids_0
+    21300002: ships_asteroids_1
+    21300004: ships_asteroids_2
+    21300006: ships_asteroids_3
+    21300008: ships_asteroids_4
+    21300010: ships_asteroids_5
+    21300012: ships_asteroids_6
+    21300014: ships_asteroids_7
+    21300016: ships_asteroids_8
+    21300018: ships_asteroids_9
+    21300020: ships_asteroids_10
+    21300022: ships_asteroids_11
+    21300024: ships_asteroids_12
+    21300026: ships_asteroids_13
+    21300028: ships_asteroids_14
+    21300030: ships_asteroids_15
+    21300032: ships_asteroids_16
+    21300034: ships_asteroids_17
+    21300036: ships_asteroids_18
+    21300038: ships_asteroids_19
+    21300040: ships_asteroids_20
+    21300042: ships_asteroids_21
+    21300044: ships_asteroids_22
+    21300046: ships_asteroids_23
+    21300048: ships_asteroids_24
+    21300050: ships_asteroids_25
+    21300052: ships_asteroids_26
+    21300054: ships_asteroids_27
+    21300056: ships_asteroids_28
+    21300058: ships_asteroids_29
+    21300060: ships_asteroids_30
+    21300062: ships_asteroids_31
+    21300064: ships_asteroids_32
+    21300066: ships_asteroids_33
+    21300068: ships_asteroids_34
+    21300070: ships_asteroids_35
+    21300072: ships_asteroids_36
+    21300074: ships_asteroids_37
+    21300076: ships_asteroids_38
+    21300078: ships_asteroids_39
+    21300080: ships_asteroids_40
+    21300082: ships_asteroids_41
+    21300084: ships_asteroids_42
+    21300086: ships_asteroids_43
+    21300088: ships_asteroids_44
+    21300090: ships_asteroids_45
+    21300092: ships_asteroids_46
+    21300094: ships_asteroids_47
+    21300096: ships_asteroids_48
+    21300098: ships_asteroids_49
+    21300100: ships_asteroids_50
+    21300102: ships_asteroids_51
+    21300104: ships_asteroids_52
+    21300106: ships_asteroids_53
+    21300108: ships_asteroids_54
+    21300110: ships_asteroids_55
+    21300112: ships_asteroids_56
+    21300114: ships_asteroids_57
+    21300116: ships_asteroids_58
+    21300118: ships_asteroids_59
+    21300120: ships_asteroids_60
+    21300122: ships_asteroids_61
+    21300124: ships_asteroids_62
+    21300126: ships_asteroids_63
+    21300128: ships_asteroids_64
+    21300130: ships_asteroids_65
+    21300132: ships_asteroids_66
+    21300134: ships_asteroids_67
+    21300136: ships_asteroids_68
+    21300138: ships_asteroids_69
+    21300140: ships_asteroids_70
+    21300142: ships_asteroids_71
+    21300144: ships_asteroids_72
+    21300146: ships_asteroids_73
+    21300148: ships_asteroids_74
+    21300150: ships_asteroids_75
+    21300152: ships_asteroids_76
+    21300154: ships_asteroids_77
+    21300156: ships_asteroids_78
+    21300158: ships_asteroids_79
+    21300160: ships_asteroids_80
+    21300162: ships_asteroids_81
+    21300164: ships_asteroids_82
+    21300166: ships_asteroids_83
+    21300168: ships_asteroids_84
+    21300170: ships_asteroids_85
+    21300172: ships_asteroids_86
+    21300174: ships_asteroids_87
+    21300176: ships_asteroids_88
+    21300178: ships_asteroids_89
+    21300180: ships_asteroids_90
+    21300182: ships_asteroids_91
+    21300184: ships_asteroids_92
+    21300186: ships_asteroids_93
+    21300188: ships_asteroids_94
+    21300190: ships_asteroids_95
+    21300192: ships_asteroids_96
+    21300194: ships_asteroids_97
+    21300196: ships_asteroids_98
+    21300198: ships_asteroids_99
+    21300200: ships_asteroids_100
+    21300202: ships_asteroids_101
+    21300204: ships_asteroids_102
+    21300206: ships_asteroids_103
+    21300208: ships_asteroids_104
+    21300210: ships_asteroids_105
+    21300212: ships_asteroids_106
+    21300214: ships_asteroids_107
+    21300216: ships_asteroids_108
+    21300218: ships_asteroids_109
+    21300220: ships_asteroids_110
+    21300222: ships_asteroids_111
+    21300224: ships_asteroids_112
+    21300226: ships_asteroids_113
+    21300228: ships_asteroids_114
+    21300230: ships_asteroids_115
+    21300232: ships_asteroids_116
+    21300234: ships_asteroids_117
+    21300236: ships_asteroids_118
+    21300238: ships_asteroids_119
+    21300240: ships_asteroids_120
+    21300242: ships_asteroids_121
+    21300244: ships_asteroids_122
+    21300246: ships_asteroids_123
+    21300248: ships_asteroids_124
+    21300250: ships_asteroids_125
+    21300252: ships_asteroids_126
+    21300254: ships_asteroids_127
+    21300256: ships_asteroids_128
+    21300258: ships_asteroids_129
+    21300260: ships_asteroids_130
+    21300262: ships_asteroids_131
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ships_asteroids_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d0f08d97576345ac69f9f8f31ec8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 368
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01e340ca701bdc4b9e52e06a9b7b901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6527cd2f5050d40ae91e3959f7ef6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ships_asteroids_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 336
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3936c8d35378d6b47b4b4ebe4b17dc04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c17f395edc6d1943b2a74954ba35b26
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
